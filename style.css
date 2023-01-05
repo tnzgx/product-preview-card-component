@@ -101,6 +101,10 @@ button embed {
         height: 100vh;
     }
 
+    #card img {
+        max-width: 50%;
+    }
+
     #card {
         max-width: 600px;
         max-height: 500px;
