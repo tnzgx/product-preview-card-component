@@ -83,6 +83,16 @@ body {
     cursor: pointer;
 }
 
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button embed {
+    margin-right: 0.5rem;
+}
+
 @media (min-width: 376px) {
     body {
         display: flex;
